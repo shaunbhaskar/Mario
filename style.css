@@ -1,0 +1,26 @@
+body{
+background-size: cover;
+font-family: 'Bebas Neue', cursive;;
+}
+
+
+.heading{
+width:100%;
+text-align:left;
+}
+
+.heading h3{
+display: inline;
+}
+
+.heading button{
+float: right;
+border:1px solid #030bfc;
+}
+
+#start,#status{
+font-size: large;
+float: right;
+color: #030bfc;
+}
+
